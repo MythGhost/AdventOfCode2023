@@ -93,7 +93,6 @@ fun main() {
             }
         }
 
-
         val calibrationValue = firstDigit.plus(lastDigit)
         firstDigit = ""
         lastDigit = ""
